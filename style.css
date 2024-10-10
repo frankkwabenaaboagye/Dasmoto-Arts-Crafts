@@ -9,3 +9,24 @@
     font-family: Helvetica;
     font-weight: bold;
 }
+
+.material{
+    font-size: 32px;
+    color: white;
+}
+
+#brushTitle{
+    background-color: mediumspringgreen;
+}
+
+#frameTitle{
+    background-color: lightcoral;
+}
+
+#paintTitle{
+    background-color: skyblue;
+}
+
+span{
+    color: blue;
+}
